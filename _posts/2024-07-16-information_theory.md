@@ -7,8 +7,6 @@ categories:
   - website
 ---
 
-## The Power of Information Theory in Machine Learning
-
 In the intricate world of machine learning, understanding and managing information is crucial. Information Theory (IT) is a mathematical framework that equips us with tools to measure and analyze the amount of information or uncertainty inherent in probabilistic events. Although originally designed to model communication systems, IT's versatility has made it indispensable across numerous fields, including machine learning. 
 
 ### Core Concepts of Information Theory
