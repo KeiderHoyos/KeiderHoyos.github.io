@@ -1,7 +1,7 @@
 # Jhoan Keider Hoyos-Osorio
 **Machine Learning Research Scientist**
 
-📞 859-967-4355 | :email: keider.hoyos@uky.edu | [LinkedIn](https://linkedin.com/in/jkhoyos/) | [GitHub](https://github.com/KeiderHoyos)
+📞 859-967-4355 |  📧 keider.hoyos@uky.edu | [LinkedIn](https://linkedin.com/in/jkhoyos/) | [GitHub](https://github.com/KeiderHoyos)
 
 ## Career Summary
 I am a Ph.D. candidate and dedicated Machine Learning Scientist with 8 years of experience in developing and deploying advanced machine learning models. Specializing in information theory, signal processing, deep learning, and computer vision, I excel in creating innovative algorithms that significantly boost model performance. Published and presented research at leading conferences such as ICASSP and NeurIPS. Highly skilled in Python and major machine learning frameworks such as PyTorch, with a strong focus on innovative research and practical deployment of AI technologies.
